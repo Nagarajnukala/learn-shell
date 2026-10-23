@@ -1,5 +1,3 @@
-
-
 #!/bin/bash
 
 PERSON1="ramesh"
