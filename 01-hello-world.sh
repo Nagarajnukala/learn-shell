@@ -2,4 +2,5 @@
 
 
 
-echo "print hello world"
+echo "Hello, World!"
+echo "this is my first shell script"
